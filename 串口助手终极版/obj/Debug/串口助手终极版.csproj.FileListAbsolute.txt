@@ -1,0 +1,10 @@
+D:\MY\C#程序\winform程序\串口助手终极版\串口助手终极版\bin\Debug\串口助手终极版.exe
+D:\MY\C#程序\winform程序\串口助手终极版\串口助手终极版\bin\Debug\串口助手终极版.pdb
+D:\MY\C#程序\winform程序\串口助手终极版\串口助手终极版\obj\Debug\串口助手终极版.Form1.resources
+D:\MY\C#程序\winform程序\串口助手终极版\串口助手终极版\obj\Debug\串口助手终极版.Properties.Resources.resources
+D:\MY\C#程序\winform程序\串口助手终极版\串口助手终极版\obj\Debug\串口助手终极版.csproj.GenerateResource.Cache
+D:\MY\C#程序\winform程序\串口助手终极版\串口助手终极版\obj\Debug\串口助手终极版.exe
+D:\MY\C#程序\winform程序\串口助手终极版\串口助手终极版\obj\Debug\串口助手终极版.pdb
+D:\MY\C#程序\winform程序\串口助手终极版\串口助手终极版\obj\Debug\串口助手终极版.csprojResolveAssemblyReference.cache
+C:\Users\logan\Desktop\串口助手终极版\串口助手终极版\obj\Debug\串口助手终极版.exe
+C:\Users\logan\Desktop\串口助手终极版\串口助手终极版\obj\Debug\串口助手终极版.pdb
